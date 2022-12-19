@@ -1,7 +1,6 @@
-<?php
-    
-echo "olá Mundo123";
+<php?
+    echo "Ola Mundo123!"
 
-echo "ola Dennei";
+    echo "olá Udemy"
 
->
+    ?>
